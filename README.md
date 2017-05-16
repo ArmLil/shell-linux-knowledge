@@ -1,7 +1,7 @@
 # Tools you are expected to know
 
 
-Besides knowing how to move about the shell, you are expected to know
+esides knowing how to move about the shell, you are expected to know
 how to use these `UNIX` tools:
 
 1. `git` (For version control)
@@ -14,7 +14,7 @@ how to use these `UNIX` tools:
 7. `yarn` (the JavaScript package manager)
 8. `diff` (Compare two files)
 
+9. 'cd' (change direction)
 # Other tools we'll use
 
 1. `atom` (A nice editor for writing programs)
-
