@@ -1,7 +1,7 @@
 # Tools you are expected to know
 
 
-esides knowing how to move about the shell, you are expected to know
+besides knowing how to move about the shell, you are expected to know
 how to use these `UNIX` tools:
 
 1. `git` (For version control)
