@@ -16,5 +16,9 @@ how to use these `UNIX` tools:
 
 9. 'cd' (change direction)
 # Other tools we'll use
+10. `sort` (sorts input in alphabetical order line by line)
+11. `date` (prints current date and time to standard output)
+12. `grep` (allowes users to specify a pattern using regular expression)
+13.  etc.
 
 1. `atom` (A nice editor for writing programs)
